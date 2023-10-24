@@ -1,1 +1,1 @@
-# M17-UF1-TicTocToe
+Hola teacher, bueno he fet que la IA tardi entre 1 y 3 segons abans de respondra, tambe he fet que evita el usuari que pugui guanyas, millor el disseny agafant images desde la web de unity assets. He fet tots els punts que demanaves a l'enunciat basicament.
